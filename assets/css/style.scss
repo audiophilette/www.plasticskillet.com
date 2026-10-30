@@ -1,0 +1,163 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.terminal-window {
+  background: #151515;
+  border: 1px solid #444;
+  border-radius: 6px;
+  margin: 25px 0;
+  overflow: hidden;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.4);
+}
+
+.terminal-title {
+  background: #252525;
+  color: #aaa;
+  padding: 8px 15px;
+  border-bottom: 1px solid #444;
+  font-family: monospace;
+  font-size: 13px;
+}
+
+.terminal-window pre {
+  margin: 0;
+  padding: 20px;
+  background: transparent;
+  border: none;
+  overflow-x: auto;
+  line-height: 1.7;
+}
+
+.terminal-window code {
+  background: transparent;
+  color: #ddd;
+  font-family: monospace;
+}
+
+.code-comment {
+  color: #777;
+}
+
+.code-keyword {
+  color: #ff79c6;
+}
+
+.code-property {
+  color: #8be9fd;
+}
+
+.code-string {
+  color: #f1fa8c;
+}
+
+.terminal-window a {
+  color: #f1fa8c;
+  text-decoration: none;
+}
+
+.terminal-window a:hover {
+  color: #50fa7b;
+  text-decoration: underline;
+}
+
+blockquote {
+  background: #151515;
+  border: 1px solid #444;
+  border-left: 3px solid #00ff00;
+  border-radius: 5px;
+  padding: 15px 20px;
+  margin: 20px 0;
+  font-family: monospace;
+}
+
+
+/* iTerm2-style terminal window */
+
+blockquote {
+  position: relative;
+  background: #080808;
+  border: 1px solid #444;
+  border-radius: 9px;
+  padding: 55px 22px 20px;
+  margin: 25px 0;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+
+  font-family: Menlo, Monaco, Consolas, monospace;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #ddd;
+}
+
+/* macOS title bar */
+blockquote::before {
+  content: "●  ●  ●";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 35px;
+  padding-left: 13px;
+
+  display: flex;
+  align-items: center;
+
+  background: #303030;
+  border-bottom: 1px solid #444;
+  border-radius: 8px 8px 0 0;
+
+  color: #ff5f57;
+  font-size: 17px;
+  letter-spacing: 3px;
+}
+
+/* Terminal typography */
+blockquote p,
+blockquote li {
+  font-family: inherit;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #ddd;
+}
+
+blockquote h3 {
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: normal;
+  color: #b5e853;
+  margin: 0 0 15px;
+  padding: 0;
+  border: none;
+}
+
+blockquote strong {
+  color: #ccc;
+  font-weight: normal;
+}
+
+/* Clickable terminal links */
+blockquote a {
+  color: #61c5ff;
+  text-decoration: none;
+}
+
+blockquote a:hover {
+  color: #b5e853;
+  text-decoration: underline;
+}
+
+/* Lists without Hacker's >> markers */
+blockquote ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 10px 0;
+}
+
+blockquote li {
+  padding-left: 0;
+}
+
+blockquote li::before {
+  content: none;
+}
