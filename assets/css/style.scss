@@ -92,24 +92,24 @@ blockquote {
 
 /* macOS title bar */
 blockquote::before {
-  content: "●  ●  ●";
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   height: 35px;
-  padding-left: 13px;
 
-  display: flex;
-  align-items: center;
+  background:
+    radial-gradient(circle at center, #ff5f57 0 6px, transparent 7px)
+      12px center / 14px 14px no-repeat,
+    radial-gradient(circle at center, #febc2e 0 6px, transparent 7px)
+      34px center / 14px 14px no-repeat,
+    radial-gradient(circle at center, #28c840 0 6px, transparent 7px)
+      56px center / 14px 14px no-repeat,
+    #303030;
 
-  background: #303030;
   border-bottom: 1px solid #444;
   border-radius: 8px 8px 0 0;
-
-  color: #ff5f57;
-  font-size: 17px;
-  letter-spacing: 3px;
 }
 
 /* Terminal typography */

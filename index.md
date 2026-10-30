@@ -7,20 +7,13 @@ title: Internet Home of Sensurround Q. Catgirl
 
 A collection of projects, writing, and assorted nonsense.
 
-## Sites
-
-- [My X](https://x.com/ShamashAran) - Writing, political shitposting
-- [My Substack](https://substack.com/@sensurround) - Writing
-- [My Books](https://books.plasticskillet.com) — Free ebook distrubition
-## About
-
-More to come.
-
-> ### ~/sites
+> ### cat sites.txt
+> Basic stuff on the internets for me
 >
 > **$ ls ~/sites**
 >
-> - [books/](https://books.plasticskillet.com)
-> - [github/](https://github.com/audiophilette)
->
+> - [My X](https://x.com/ShamashAran) - Writing, political shitposting
+> - [My Substack](https://substack.com/@sensurround) - Writing
+> - [My Books](https://books.plasticskillet.com) — Free ebook distrubition
+> 
 > **$ echo "Welcome to Plastic Skillet"**
