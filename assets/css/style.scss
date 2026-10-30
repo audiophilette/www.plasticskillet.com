@@ -179,3 +179,8 @@ blockquote ul li {
   padding-left: 0;
   margin-left: 0;
 }
+
+/* Hide the Hacker theme's GitHub button */
+header .btn {
+  display: none !important;
+}
