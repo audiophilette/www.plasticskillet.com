@@ -161,3 +161,21 @@ blockquote li {
 blockquote li::before {
   content: none;
 }
+
+/* Remove Hacker theme's >> markers from terminal lists */
+blockquote ul li::before {
+  content: none !important;
+  display: none !important;
+}
+
+blockquote ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+blockquote ul li {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
