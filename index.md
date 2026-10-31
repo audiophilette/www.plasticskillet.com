@@ -3,6 +3,8 @@ layout: default
 title: Internet Home of Sensurround Q. Catgirl
 ---
 
+![Plastic Skillet Banner](/assets/images/plasticskillet.png){: style="width: 75%; height: auto;" }
+
 # Welcome to Plastic Skillet
 
 A collection of projects, writing, and assorted nonsense.
@@ -18,5 +20,4 @@ A collection of projects, writing, and assorted nonsense.
 > 
 > **$ echo "Welcome to Plastic Skillet"**
 
-![Plastic Skillet Banner](/assets/images/plasticskillet.com.png){: style="width: 100%; height: auto;" }
 
