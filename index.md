@@ -2,10 +2,7 @@
 layout: default
 title: Internet Home of Sensurround Q. Catgirl
 ---
-
-# Welcome to Plastic Skillet
-
-A collection of projects, writing, and assorted nonsense.
+Sensurround Q. Catgirl's home on the internet
 
 > ### cat sites.txt
 > Sensurround's varius internet stuff
