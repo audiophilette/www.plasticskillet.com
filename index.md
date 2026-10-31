@@ -3,7 +3,7 @@ layout: default
 title: Internet Home of Sensurround Q. Catgirl
 ---
 
-![Plastic Skillet Banner](/assets/images/plasticskillet.png){: style="width: 75%; height: auto;" }
+![Plastic Skillet Banner](/assets/images/plasticskillet.png){: style="display: block; width: 75%; height: auto;" }
 
 # Welcome to Plastic Skillet
 
