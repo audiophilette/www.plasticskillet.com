@@ -17,3 +17,6 @@ A collection of projects, writing, and assorted nonsense.
 > - [My Books](https://books.plasticskillet.com) — Free ebook distrubition
 > 
 > **$ echo "Welcome to Plastic Skillet"**
+
+![Plastic Skillet Banner](/assets/images/banner.png){: style="width: 100%; height: auto;" }
+
