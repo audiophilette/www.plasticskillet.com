@@ -18,5 +18,5 @@ A collection of projects, writing, and assorted nonsense.
 > 
 > **$ echo "Welcome to Plastic Skillet"**
 
-![Plastic Skillet Banner](/assets/images/banner.png){: style="width: 100%; height: auto;" }
+![Plastic Skillet Banner](/assets/images/plasticskillet.com.png){: style="width: 100%; height: auto;" }
 
