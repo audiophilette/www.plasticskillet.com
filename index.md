@@ -3,7 +3,7 @@ layout: default
 title: Internet Home of Sensurround Q. Catgirl
 ---
 > ### cat sites.txt
-> Sensurround's varius internet stuff
+> Sensurround's various internet stuff
 >
 > **$ ls ~/sites**
 >
