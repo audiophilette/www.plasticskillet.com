@@ -185,25 +185,33 @@ header .btn {
   display: none !important;
 }
 
-/* Replace Hacker theme title with banner */
-header h1 {
-  background: url('/assets/images/plasticskillet.png') right center / contain no-repeat;
-  width: 100%;
-  height: 200px;
+/* Header with centered title and right-aligned banner */
+header {
+  background-image: url('/assets/images/plasticskillet.png');
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: auto 200px;
+  min-height: 240px;
+}
 
-  font-size: 0;
+/* Restore and center the title */
+header h1 {
+  background: none;
+  width: auto;
+  height: auto;
+  font-size: 30px;
+  text-align: center;
   margin: 0;
   padding: 0;
 }
 
-/* Hide the ./ prefix */
+/* Restore the Hacker theme's ./ prefix */
 header h1::before {
-  display: none !important;
+  display: inline;
 }
 
-/* Hide the subtitle */
+/* Center the subtitle */
 header h2 {
-  display: none;
+  display: block;
+  text-align: center;
 }
-
-
