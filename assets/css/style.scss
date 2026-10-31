@@ -185,7 +185,7 @@ header .btn {
   display: none !important;
 }
 
-/* Header with centered title and right-aligned banner */
+/* Header with text on left, banner on right */
 header {
   background-image: url('/assets/images/plasticskillet.png');
   background-repeat: no-repeat;
@@ -194,24 +194,25 @@ header {
   min-height: 240px;
 }
 
-/* Restore and center the title */
+/* Title on the left */
 header h1 {
   background: none;
-  width: auto;
+  width: 60%;
   height: auto;
   font-size: 30px;
-  text-align: center;
+  text-align: left;
   margin: 0;
   padding: 0;
 }
 
-/* Restore the Hacker theme's ./ prefix */
+/* Restore ./ prefix */
 header h1::before {
   display: inline;
 }
 
-/* Center the subtitle */
+/* Subtitle on the left */
 header h2 {
   display: block;
-  text-align: center;
+  width: 60%;
+  text-align: left;
 }
