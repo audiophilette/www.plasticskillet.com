@@ -196,14 +196,14 @@ header h1 {
   padding: 0;
 }
 
-/* Hide the ./ prefix 
+/* Hide the ./ prefix */
 header h1::before {
   display: none !important;
 }
 
-/* Hide the subtitle 
+/* Hide the subtitle */
 header h2 {
   display: none;
 }
 
-*/
+
