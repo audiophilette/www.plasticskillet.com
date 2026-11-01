@@ -23,7 +23,7 @@ title: Internet Home of Sensurround Q. Catgirl
 > - [Paddy O'Doyle's Boots](https://youtu.be/gJjQg77y8qE)
 > - [Some Bitch I Know](https://youtu.be/eTOL5x0U2V8)
 > - [Willie Brennan](https://youtu.be/Aj6HQjk1400)
-> - [GI Joe (In the Hollars)](https://youtu.be/Aj6HQjk1400)
+> - [GI Joe (In the Hollars)](https://youtu.be/jMCA_-qwH5g)
 > - [Goodbye Old Friend](https://youtu.be/chJs8wE6_Ms) A song about my dearly departed cat, Griefer.
 > - [Silent But Steady](https://youtu.be/UYs6uDmeDZM) An Ode to Electric Cars
 > - [Good Ol' Gasoline](https://youtu.be/DtE51ZFVBFc) An Ode to Gasoline Powered Cars
