@@ -9,10 +9,12 @@ title: Internet Home of Sensurround Q. Catgirl
 >
 > - [Domestic Dissonance](https://music.youtube.com/playlist?list=OLAK5uy_n8UQ56G5st0usQ6syCtymnYee90gezZdY)
 > - [Fake Country](https://music.youtube.com/playlist?list=OLAK5uy_mpCnQ5JLejLbmQ3OkDK3q4UeQR2ewONcw)
-> ** cd ~/singles**
+>
+> **$ cd ~/singles**
+>
 > - [I Wish I Could See (The Emperor's New Clothes)](https://music.youtube.com/watch?v=K5ZdDDV3F2o&list=OLAK5uy_mXsFev7oo1d0pCc5nvo9OgCMB69Gz41bM)
 > 
-> ** cd ~/unreleased-crap** 
+> **$ cd ~/unreleased-crap** 
 >
 > - [Brother, Can You Spare A Job](https://youtu.be/tWpNFurBcAM) A Parody of "Brother Can You Spare A Dime?"
 > - [Love Me, I'm Conservative](https://youtu.be/sRr2TV_SPwk) A parody of "Love Me, I'm a Liberal" by Phil Ochs
