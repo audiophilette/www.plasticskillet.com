@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Internet Home of Sensurround Q. Catgirl
 ---
 > ### cat music.txt
