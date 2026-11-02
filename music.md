@@ -29,6 +29,6 @@ title: Internet Home of Sensurround Q. Catgirl
 > - [Silent But Steady](https://youtu.be/UYs6uDmeDZM) An Ode to Electric Cars
 > - [Good Ol' Gasoline](https://youtu.be/DtE51ZFVBFc) An Ode to Gasoline Powered Cars
 >
-> **$ echo "Welcome to Plastic Skillet"**
+> **$ echo "Music is also available on Spotify, Apple Music, Amazon, and Tidal too."**
 
 
