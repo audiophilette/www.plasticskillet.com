@@ -7,6 +7,8 @@ title: Internet Home of Sensurround Q. Catgirl
 >
 > **$ cd ~/albums**
 >
+> - Computer Blues (Not Available yet... Distrokid is being stupid).
+> - [Legacy System Blues](https://music.youtube.com/playlist?list=OLAK5uy_m5WoCQ3grVcbrq2FlDYFjTPibEsqMjquw)
 > - [Domestic Dissonance](https://music.youtube.com/playlist?list=OLAK5uy_n8UQ56G5st0usQ6syCtymnYee90gezZdY)
 > - [Fake Country](https://music.youtube.com/playlist?list=OLAK5uy_mpCnQ5JLejLbmQ3OkDK3q4UeQR2ewONcw)
 >
