@@ -17,6 +17,10 @@ title: Internet Home of Sensurround Q. Catgirl
 > - [Chat with me on Matrix](https://matrix.to/#/@sensurround:plasticskillet.com)
 > - [IT Catgirl on Instagram](https://www.instagram.com/itcatgirl74/)
 >
+> **$ echo "Adaptations!"**
+>
+> - [Comic](https://narusaku.github.io/malfoid-reader/comic.html?comic=american-vacation) of an ongoing, unfinished story by Crepuscule3307
+>
 > **$ echo "Welcome to Plastic Skillet"**
 
 
