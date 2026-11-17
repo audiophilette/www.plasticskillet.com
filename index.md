@@ -9,13 +9,17 @@ title: Internet Home of Sensurround Q. Catgirl
 >
 > - [My X](https://x.com/ShamashAran) - Writing, political shitposting
 > - [My Substack](https://substack.com/@sensurround) - Writing
-> - [My Books](https://books.plasticskillet.com) — Free ebook distrubition
+> - [My Books](https://books.plasticskillet.com) — Links to my published works.  Some are freely available for download.
 > - [My Music on Youtube]({% link music.md %}) Lyrics by me, Music by AI
 > - [AO3](https://archiveofourown.org/users/Sensurround74) - Fanfiction at AO3
 > 
 > - [Keybase](https://keybase.io/sensurroundcat) My Keybase
 > - [Chat with me on Matrix](https://matrix.to/#/@sensurround:plasticskillet.com)
 > - [IT Catgirl on Instagram](https://www.instagram.com/itcatgirl74/)
+>
+> **$ echo "Adaptations!"**
+>
+> - [Comic](https://narusaku.github.io/malfoid-reader/comic.html?comic=american-vacation) of an ongoing, unfinished story by Crepuscule3307
 >
 > **$ echo "Welcome to Plastic Skillet"**
 
