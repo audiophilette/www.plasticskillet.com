@@ -5,7 +5,7 @@ title: Internet Home of Sensurround Q. Catgirl
 > ### $ cat music.txt
 > Sensurround's Music (Links go to YouTube Music)
 >
-> ## $ cat platform-links.txt
+> ### $ cat platform-links.txt
 >
 > - [\[Youtube Music\]](https://music.youtube.com/@audiophilette) [\[Spotify\]](https://open.spotify.com/artist/6Q9myZ2rghV1fDeYp7n1XJ) [\[Apple Music\]](https://music.apple.com/us/artist/sensurround/1790944245) [\[Tidal\]](https://tidal.com/artist/sensurround/53358233)
 >
