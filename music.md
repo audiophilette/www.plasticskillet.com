@@ -18,8 +18,8 @@ title: Internet Home of Sensurround Q. Catgirl
 >
 > **$ cd ~/singles**
 >
-> - Change Freeze - Coming soon!
-> - [3D Printer Rag](https://music.youtube.com/watch?v=a845J_Hwpho) Anyone with a 3D printer understands. \[NEW!\]
+> - [Change Freeze](https://music.youtube.com/watch?v=KD0PvjnDDII) \[NEW!\]
+> - [3D Printer Rag](https://music.youtube.com/watch?v=a845J_Hwpho) Anyone with a 3D printer understands.
 > - [You Abandoned Me](https://music.youtube.com/watch?v=j_5z034xGP4) About my abusive relationship with my muse.
 > - [I Wish I Could See (The Emperor's New Clothes)](https://music.youtube.com/watch?v=K5ZdDDV3F2o&list=OLAK5uy_mXsFev7oo1d0pCc5nvo9OgCMB69Gz41bM)
 > 
