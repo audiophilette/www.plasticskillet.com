@@ -10,7 +10,7 @@ title: Internet Home of Sensurround Q. Catgirl
 > - [My X](https://x.com/ShamashAran) - Writing, political shitposting
 > - [My Substack](https://substack.com/@sensurround) - Writing
 > - [My Books](https://books.plasticskillet.com) — Links to my published works.  Some are freely available for download.
-> - [My Music on Youtube]({% link music.md %}) Lyrics by me, Music by AI
+> - [My Music on Youtube](music/) Lyrics by me, Music by AI
 > - [AO3](https://archiveofourown.org/users/Sensurround74) - Fanfiction at AO3
 > 
 > - [Keybase](https://keybase.io/sensurroundcat) My Keybase
