@@ -18,6 +18,7 @@ title: Internet Home of Sensurround Q. Catgirl
 >
 > **$ cd ~/singles**
 >
+> - [Goodbye Old Friend](https://music.youtube.com/watch?v=tZCrRAn6fhs) \[NEW!\]
 > - [Change Freeze](https://music.youtube.com/watch?v=KD0PvjnDDII) \[NEW!\]
 > - [3D Printer Rag](https://music.youtube.com/watch?v=a845J_Hwpho) Anyone with a 3D printer understands.
 > - [You Abandoned Me](https://music.youtube.com/watch?v=j_5z034xGP4) About my abusive relationship with my muse.
