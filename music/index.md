@@ -11,18 +11,18 @@ title: Internet Home of Sensurround Q. Catgirl
 >
 > **$ cd ~/albums**
 >
-> - [Computer Blues](https://music.youtube.com/playlist?list=OLAK5uy_lzfdFn52c1rP8FXjuKwTUgq93NPchK7Hg)
-> - [Legacy System Blues](https://music.youtube.com/playlist?list=OLAK5uy_m5WoCQ3grVcbrq2FlDYFjTPibEsqMjquw)
-> - [Domestic Dissonance](https://music.youtube.com/playlist?list=OLAK5uy_n8UQ56G5st0usQ6syCtymnYee90gezZdY)
-> - [Fake Country](https://music.youtube.com/playlist?list=OLAK5uy_mpCnQ5JLejLbmQ3OkDK3q4UeQR2ewONcw)
+> - [Computer Blues](https://distrokid.com/hyperfollow/sensurround/computer-blues)
+> - [Legacy System Blues](https://distrokid.com/hyperfollow/sensurround/legacy-system-blues)
+> - [Domestic Dissonance](https://distrokid.com/hyperfollow/sensurround/domestic-dissonance)
+> - [Fake Country](https://distrokid.com/hyperfollow/sensurround/fake-country-2)
 >
 > **$ cd ~/singles**
 >
-> - [Goodbye Old Friend](https://music.youtube.com/watch?v=tZCrRAn6fhs) \[NEW!\]
-> - [Change Freeze](https://music.youtube.com/watch?v=KD0PvjnDDII) \[NEW!\]
-> - [3D Printer Rag](https://music.youtube.com/watch?v=a845J_Hwpho) Anyone with a 3D printer understands.
-> - [You Abandoned Me](https://music.youtube.com/watch?v=j_5z034xGP4) About my abusive relationship with my muse.
-> - [I Wish I Could See (The Emperor's New Clothes)](https://music.youtube.com/watch?v=K5ZdDDV3F2o&list=OLAK5uy_mXsFev7oo1d0pCc5nvo9OgCMB69Gz41bM)
+> - [Goodbye Old Friend](https://distrokid.com/hyperfollow/sensurround/goodbye-old-friend) \[NEW!\]
+> - [Change Freeze](https://distrokid.com/hyperfollow/sensurround/change-freeze) \[NEW!\]
+> - [3D Printer Rag](https://distrokid.com/hyperfollow/sensurround/3d-printer-rag) Anyone with a 3D printer understands.
+> - [You Abandoned Me](https://distrokid.com/hyperfollow/sensurround/you-abandoned-me-2) About my abusive relationship with my muse.
+> - [I Wish I Could See (The Emperor's New Clothes)](https://distrokid.com/hyperfollow/sensurround/i-wish-i-could-see-the-emperors-new-clothes)
 > 
 > **$ cd ~/unreleased-crap** 
 >
