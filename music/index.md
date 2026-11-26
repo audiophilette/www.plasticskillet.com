@@ -18,8 +18,9 @@ title: Internet Home of Sensurround Q. Catgirl
 >
 > **$ cd ~/singles**
 >
+> - [Guru Meditation](https://distrokid.com/hyperfollow/sensurround/guru-meditation) \[NEW!\]
 > - [Goodbye Old Friend](https://distrokid.com/hyperfollow/sensurround/goodbye-old-friend) \[NEW!\]
-> - [Change Freeze](https://distrokid.com/hyperfollow/sensurround/change-freeze) \[NEW!\]
+> - [Change Freeze](https://distrokid.com/hyperfollow/sensurround/change-freeze)
 > - [3D Printer Rag](https://distrokid.com/hyperfollow/sensurround/3d-printer-rag) Anyone with a 3D printer understands.
 > - [You Abandoned Me](https://distrokid.com/hyperfollow/sensurround/you-abandoned-me-2) About my abusive relationship with my muse.
 > - [I Wish I Could See (The Emperor's New Clothes)](https://distrokid.com/hyperfollow/sensurround/i-wish-i-could-see-the-emperors-new-clothes)
