@@ -19,13 +19,13 @@ title: Internet Home of Sensurround Q. Catgirl
 > **$ cd ~/singles**
 >
 > - [Den of Thieves](https://aethrmusik.com/release/den-of-theves) Exclusive on Aethrmusik (for a while) \[NEW!\]
-> - [Space Freighter Christmas](https://www.youtube.com/watch?v=K5NSa8mKK2A) \[NEW!\]
-> - [The Abortion Party](https://www.youtube.com/watch?v=7XHgg6iGVBY) \[NEW!\]
-> - [Guru Meditation](https://distrokid.com/hyperfollow/sensurround/guru-meditation) \[NEW!\]
-> - [Goodbye Old Friend](https://distrokid.com/hyperfollow/sensurround/goodbye-old-friend)
-> - [Change Freeze](https://distrokid.com/hyperfollow/sensurround/change-freeze)
-> - [3D Printer Rag](https://distrokid.com/hyperfollow/sensurround/3d-printer-rag) Anyone with a 3D printer understands.
-> - [You Abandoned Me](https://distrokid.com/hyperfollow/sensurround/you-abandoned-me-2) About my abusive relationship with my muse.
+> - [Space Freighter Christmas](https://youtu.be/K5NSa8mKK2A) \[NEW!\]
+> - [The Abortion Party](https://youtu.be/7XHgg6iGVBY) \[NEW!\]
+> - [Guru Meditation](https://youtu.be/Kb7WBc48BAQ) \[NEW!\]
+> - [Goodbye Old Friend](https://youtu.be/tZCrRAn6fhs)
+> - [Change Freeze](https://youtu.be/KD0PvjnDDII)
+> - [3D Printer Rag](https://youtu.be/a845J_Hwpho) Anyone with a 3D printer understands.
+> - [You Abandoned Me](https://youtu.be/j_5z034xGP4) About my abusive relationship with my muse.
 > - [I Wish I Could See (The Emperor's New Clothes)](https://distrokid.com/hyperfollow/sensurround/i-wish-i-could-see-the-emperors-new-clothes)
 > 
 > **$ cd ~/unreleased-crap** 
