@@ -18,8 +18,11 @@ title: Internet Home of Sensurround Q. Catgirl
 >
 > **$ cd ~/singles**
 >
+> - [Den of Thieves](https://aethrmusik.com/release/den-of-theves) Exclusive on Aethrmusik (for a while) \[NEW!\]
+> - [Space Freighter Christmas](https://www.youtube.com/watch?v=K5NSa8mKK2A) \[NEW!\]
+> - [The Abortion Party](https://www.youtube.com/watch?v=7XHgg6iGVBY) \[NEW!\]
 > - [Guru Meditation](https://distrokid.com/hyperfollow/sensurround/guru-meditation) \[NEW!\]
-> - [Goodbye Old Friend](https://distrokid.com/hyperfollow/sensurround/goodbye-old-friend) \[NEW!\]
+> - [Goodbye Old Friend](https://distrokid.com/hyperfollow/sensurround/goodbye-old-friend)
 > - [Change Freeze](https://distrokid.com/hyperfollow/sensurround/change-freeze)
 > - [3D Printer Rag](https://distrokid.com/hyperfollow/sensurround/3d-printer-rag) Anyone with a 3D printer understands.
 > - [You Abandoned Me](https://distrokid.com/hyperfollow/sensurround/you-abandoned-me-2) About my abusive relationship with my muse.
